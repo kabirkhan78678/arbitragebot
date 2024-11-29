@@ -1,0 +1,101 @@
+exchange,pair,last_price,volume,trust_score,bid_ask_spread_percentage,timestamp,trade_url
+Kraken,ALGO/USD,0.1905,10377933.64195547,green,0.010474,2023-12-11T11:14:21+00:00,https://pro.kraken.com/app/trade/ALGO-USD
+MEXC,ALGO/USDT,0.1904,8164786.08,green,0.052493,2023-12-11T11:12:51+00:00,https://www.mexc.com/exchange/ALGO_USDT
+Binance,ALGO/USDT,0.189,121226908.0,green,0.052798,2023-12-11T10:59:11+00:00,https://www.binance.com/en/trade/ALGO_USDT?ref=37754157
+LBank,ALGO/USDT,0.1903,1251246.5736,green,0.052493,2023-12-11T11:11:26+00:00,https://www.lbank.com/trade/algo_usdt
+DigiFinex,ALGO/USDT,0.1902,11452498.0,green,0.052549,2023-12-11T11:11:52+00:00,https://www.digifinex.com/en-ww/trade/USDT/ALGO
+XT.COM,ALGO/USDT,0.1903,7305585.26,green,0.052521,2023-12-11T11:12:02+00:00,https://www.xt.com/en/trade/algo_usdt
+Coinbase Exchange,ALGO/USD,0.1894,47115888.1,green,0.05277,2023-12-11T11:06:36+00:00,https://pro.coinbase.com/trade/ALGO-USD
+P2B,ALGO/USDT,0.1902,597339.0,green,0.052549,2023-12-11T11:11:45+00:00,
+BingX,ALGO/USDT,0.1906,7140490.239998,green,0.104657,2023-12-11T11:14:17+00:00,https://bingx.com/en-us/spot/ALGOUSDT
+HitBTC,ALGO/BTC,4.487e-06,1064830.2,green,0.088889,2023-12-11T11:14:13+00:00,https://hitbtc.com/ALGO-to-BTC
+Bybit,ALGO/USDT,0.19076,19247517.97,green,0.02095,2023-12-11T11:14:06+00:00,https://www.bybit.com/trade/spot/ALGO/USDT
+Icrypex,ALGO/USDT,0.1913,4191391.15,green,0.365917,2023-12-11T11:15:35+00:00,https://www.icrypex.com/en/trade/spot/ALGOUSDT
+Gate.io,ALGO/USDT,0.18995,15711060.075519,green,0.036751,2023-12-11T11:13:11+00:00,https://gate.io/trade/ALGO_USDT
+FMFW.io,ALGO/BTC,4.487e-06,1064830.2,green,0.133601,2023-12-11T11:12:57+00:00,https://fmfw.io/ALGO-to-BTC
+Pionex,ALGO/USDT,0.191,1138931.97,green,0.157068,2023-12-11T11:15:19+00:00,https://www.pionex.com/en/trade/ALGO_USDT/Bot
+KuCoin,ALGO/USDT,0.191,27856091.3724339,green,0.104712,2023-12-11T11:14:47+00:00,https://www.kucoin.com/trade/ALGO-USDT
+WOO X,ALGO/USDT,0.1903,171204.3,green,0.052466,2023-12-11T11:13:08+00:00,https://x.woo.network/spot
+BYDFi,ALGO/USDT,0.1908,1680827.0,green,0.157646,2023-12-11T11:14:31+00:00,https://www.bydfi.com/en/spot/algo_usdt
+Kraken,ALGO/EUR,0.17661,5552534.36397455,green,0.095812,2023-12-11T11:14:21+00:00,https://pro.kraken.com/app/trade/ALGO-EUR
+BTSE,ALGO/USD,0.1909,19879834.233630173,green,0.471451,2023-12-11T11:11:59+00:00,https://www.btse.com/en/trading/ALGO-USD
+Bitforex,ALGO/USDT,0.190182,1123885.5088,green,0.044661,2023-12-11T11:11:40+00:00,https://www.bitforex.com/en/spot/algo_usdt
+OKX,ALGO/USDT,0.191,32800971.138718,green,0.104767,2023-12-11T11:15:06+00:00,https://www.okx.com/trade-spot/algo-usdt
+Icrypex,ALGO/TRY,5.552,5858827.6913,green,0.607794,2023-12-11T11:15:35+00:00,https://www.icrypex.com/en/trade/spot/ALGOTRY
+Crypto.com Exchange,ALGO/USD,0.19101,1216893.0,green,0.157052,2023-12-11T11:12:27+00:00,https://crypto.com/exchange/trade/spot/ALGO_USD
+CoinW,ALGO/USDT,0.191,5800457.09,green,0.156986,2023-12-11T11:15:37+00:00,https://www.coinw.com/front/market
+Hotcoin Global,ALGO/USDT,0.1907,1845025.0713,green,0.678497,2023-12-11T11:15:53+00:00,https://www.hotcoin.com/currencyExchange/algo_usdt
+Bitrue,ALGO/USDT,0.1902,36031617.0,green,1.302083,2023-12-11T11:12:01+00:00,https://www.bitrue.com/trade/algo_usdt
+Bitvavo,ALGO/EUR,0.17658,9243558.670697,green,0.169205,2023-12-11T11:14:02+00:00,https://account.bitvavo.com/markets/ALGO-EUR
+Toobit,ALGO/USDT,0.1911,5411160.0,green,0.156986,2023-12-11T11:15:25+00:00,https://www.toobit.com/en-US/spot/ALGO_USDT
+Bitstamp,ALGO/USD,0.18917,1171750.37623347,green,0.210182,2023-12-11T10:37:40+00:00,https://www.bitstamp.net/markets/algo/usd/
+Bitstamp,ALGO/EUR,0.17675,571641.56368634,green,0.13279,2023-12-11T11:14:14+00:00,https://www.bitstamp.net/markets/algo/eur/
+Bitfinex,ALG/USD,0.18975,2525091.7296664,green,0.157233,2023-12-11T11:06:28+00:00,https://trading.bitfinex.com/t/ALG:USD?type=exchange
+Binance,ALGO/BTC,4.46e-06,5555922.0,green,0.223214,2023-12-11T11:00:16+00:00,https://www.binance.com/en/trade/ALGO_BTC?ref=37754157
+Coinbase Exchange,ALGO/EUR,0.1758,3463979.0,green,0.113636,2023-12-11T11:07:23+00:00,https://pro.coinbase.com/trade/ALGO-EUR
+Binance,ALGO/BUSD,0.1897,938097.0,green,0.105263,2023-12-11T11:08:08+00:00,https://www.binance.com/en/trade/ALGO_BUSD?ref=37754157
+WhiteBIT,ALGO/USDT,0.1898,13820252.31,green,0.471698,2023-12-11T11:11:57+00:00,https://whitebit.com/trade/ALGO_USDT
+Coinbase Exchange,ALGO/BTC,4.48e-06,959051.0,green,0.223714,2023-12-11T11:07:33+00:00,https://pro.coinbase.com/trade/ALGO-BTC
+BitDelta,ALGO/USDT,0.1909,3396036.0,green,0.104712,2023-12-11T11:15:47+00:00,https://bitdelta.com/en/trade/ALGO_USDT
+BitMart,ALGO/USDT,0.190067,953514.46,green,0.597687,2023-12-11T11:14:49+00:00,https://www.bitmart.com/trade/en?layout=basic&symbol=ALGO_USDT
+Kraken,ALGO/USDT,0.18951,755259.30637291,green,0.136111,2023-12-11T11:07:16+00:00,https://pro.kraken.com/app/trade/ALGO-USDT
+Kraken,ALGO/XBT,4.48e-06,975253.19005088,green,0.443459,2023-12-11T11:10:41+00:00,https://pro.kraken.com/app/trade/ALGO-XBT
+Coinbase Exchange,ALGO/GBP,0.1505,815507.0,green,0.132626,2023-12-11T11:07:26+00:00,https://pro.coinbase.com/trade/ALGO-GBP
+Dex-Trade,ALGO/USDT,0.19,2095996.25864167,green,0.262467,2023-12-11T11:11:57+00:00,
+BtcTurk | Kripto,ALGO/TRY,5.555,4062883.4168,green,0.180865,2023-12-11T11:06:09+00:00,https://pro.btcturk.com/pro/al-sat/ALGO_TRY
+Binance,ALGO/FDUSD,0.1891,2328162.0,green,0.158228,2023-12-11T10:59:31+00:00,https://www.binance.com/en/trade/ALGO_FDUSD?ref=37754157
+Pionex,ALGO/BTC,4.49e-06,61609.72,green,0.444444,2023-12-11T11:15:19+00:00,https://www.pionex.com/en/trade/ALGO_BTC/Bot
+Crypto.com Exchange,ALGO/USDT,0.19086,1952818.0,green,0.725394,2023-12-11T11:12:22+00:00,https://crypto.com/exchange/trade/spot/ALGO_USDT
+Paribu,ALGO/TRY,5.542,2192167.3,green,0.083525,2023-12-11T11:10:13+00:00,
+Bitfinex,ALG/BTC,4.46e-06,328632.17134841,green,0.222717,2023-12-11T11:06:28+00:00,https://trading.bitfinex.com/t/ALG:BTC?type=exchange
+Binance,ALGO/TRY,5.577,2061742.1,green,0.161233,2023-12-11T11:15:26+00:00,https://www.binance.com/en/trade/ALGO_TRY?ref=37754157
+Kraken,ALGO/ETH,8.41e-05,201205.33574145,green,0.235294,2023-12-11T11:03:57+00:00,https://pro.kraken.com/app/trade/ALGO-ETH
+KuCoin,ALGO/USDC,0.1894,292008.1488,green,0.157233,2023-12-11T11:13:30+00:00,https://www.kucoin.com/trade/ALGO-USDC
+Binance,ALGO/BNB,0.000806,860000.0,green,0.247525,2023-12-11T11:02:21+00:00,https://www.binance.com/en/trade/ALGO_BNB?ref=37754157
+Crypto.com Exchange,ALGO/BTC,4.493e-06,695917.0,green,0.864362,2023-12-11T11:12:22+00:00,https://crypto.com/exchange/trade/spot/ALGO_BTC
+Coinlist,ALGO/USDT,0.19,675264.6983,green,0.052576,2023-12-11T11:12:58+00:00,https://pro.coinlist.co/trader/ALGO-USDT
+OKX,ALGO/USDC,0.1898,607000.0963,green,0.157315,2023-12-11T11:13:06+00:00,https://www.okx.com/trade-spot/algo-usdc
+KuCoin,ALGO/BTC,4.498e-06,373570.8805,green,0.155556,2023-12-11T11:14:47+00:00,https://www.kucoin.com/trade/ALGO-BTC
+BitMart,ALGO/USDC,0.19069,356904.4,green,0.600365,2023-12-11T11:16:10+00:00,https://www.bitmart.com/trade/en?layout=basic&symbol=ALGO_USDC
+CoinEx,ALGO/USDT,0.189833,735089.77729041,green,0.092105,2023-12-11T11:11:41+00:00,https://www.coinex.com/trading?currency=USDT&dest=ALGO#limit
+Bitfinex,ALG/USDT,0.18948,251925.63849143,green,0.366876,2023-12-11T11:02:21+00:00,https://trading.bitfinex.com/t/ALG:UST?type=exchange
+Kraken,ALGO/GBP,0.15053,260322.50160136,green,0.164398,2023-12-11T11:00:56+00:00,https://pro.kraken.com/app/trade/ALGO-GBP
+Bitazza,ALGO/USDT,0.1897,84714.0,green,0.678497,2023-12-11T11:14:14+00:00,https://trade.bitazza.com/gl/exchange
+Emirex,ALGO/USDT,0.19041,75663.625,green,0.19936,2023-12-11T11:13:00+00:00,https://emirex.com/trading/ALGOUSDT
+XT.COM,ALGO/BTC,4.48e-06,1123066.0,green,0.222717,2023-12-11T11:12:03+00:00,https://www.xt.com/en/trade/algo_btc
+LATOKEN,ALGO/USDT,0.1901,649579.0811761179,green,0.113411,2023-12-11T11:11:37+00:00,https://latoken.com/exchange/USDT-ALGO
+Binance,ALGO/ETH,8.44e-05,494209.7,green,0.235571,2023-12-11T11:06:36+00:00,https://www.binance.com/en/trade/ALGO_ETH?ref=37754157
+EXMO,ALGO/USDT,0.19082285,2298695.9435525,green,0.350938,2023-12-11T11:14:28+00:00,https://exmo.com/en/trade/ALGO_USDT
+KuCoin,ALGO/ETH,8.49e-05,201516.7591,green,0.270652,2023-12-11T11:14:47+00:00,https://www.kucoin.com/trade/ALGO-ETH
+AscendEX (BitMax),ALGO/USDT,0.1909,2366370.4,green,0.73107,2023-12-11T11:13:56+00:00,https://ascendex.com/en/cashtrade-spottrading/usdt/algo
+EXMO,ALGO/BTC,4.5e-06,1734027.86176674,green,0.222222,2023-12-11T11:15:21+00:00,https://exmo.com/en/trade/ALGO_BTC
+Phemex,ALGO/USDT,0.1899,3231182.53,green,0.472193,2023-12-11T11:13:44+00:00,https://phemex.com/spot/trade/ALGOUSDT
+Bitrue,ALGO/XRP,0.3024,5705921.61,green,0.851621,2023-12-11T11:12:02+00:00,https://www.bitrue.com/trade/algo_xrp
+Bitlo,ALGO/TRY,5.58,63352.74260395,green,0.892857,2023-12-11T11:14:24+00:00,https://www.bitlo.com/kolay-alis-satis/ALGO-TRY
+Bitkub,ALGO/THB,6.76,279485.56743037,green,0.442478,2023-12-11T11:11:36+00:00,https://www.bitkub.com/market/ALGO
+WhiteBIT,ALGO/BTC,4.45e-06,231572.0,green,0.886918,2023-12-11T11:11:57+00:00,https://whitebit.com/trade/ALGO_BTC
+Kanga,ALGO/USDT,0.1891,0.0,green,0.527148,2023-12-11T11:14:14+00:00,https://trade.kanga.exchange/market/ALGO-USDT
+BtcTurk | Kripto,ALGO/USDT,0.1888,975823.4305,green,0.682415,2023-12-11T11:06:09+00:00,https://pro.btcturk.com/pro/al-sat/ALGO_USDT
+Dex-Trade,ALGO/BTC,4.47e-06,128478.0,green,0.668151,2023-12-11T11:11:55+00:00,
+Coinstore,ALGO/USDT,0.1912,9553265.2,green,1.09375,2023-12-11T11:14:05+00:00,https://www.coinstore.com/#/spot/ALGOUSDT
+Coinlist,ALGO/USD,0.19,84633.32,green,0.262743,2023-12-11T11:12:58+00:00,https://pro.coinlist.co/trader/ALGO-USD
+Trubit,ALGO/USDT,0.1906,3733292.0,green,0.834637,2023-12-11T11:15:23+00:00,https://www.trubit.com/pro/crypto-spot-trading/ALGO/USDT
+BigONE,ALGO/USDT,0.1909,4117983.0,green,0.782473,2023-12-11T11:16:02+00:00,https://big.one/trade/ALGO-USDT
+Kanga,ALGO/AED,0.6933,0.0,green,1.435271,2023-12-11T11:03:33+00:00,https://trade.kanga.exchange/market/ALGO-AED
+Kanga,ALGO/PLN,0.766,0.0,green,0.519481,2023-12-11T11:08:53+00:00,https://trade.kanga.exchange/market/ALGO-oPLN
+Bitazza,ALGO/THB,6.735,13292.0,green,0.877488,2023-12-11T11:14:14+00:00,https://trade.bitazza.com/gl/exchange
+Bybit,ALGO/BTC,4.48e-06,182337.2,green,0.222222,2023-12-11T11:14:07+00:00,https://www.bybit.com/trade/spot/ALGO/BTC
+BTCMarkets,ALGO/AUD,0.2908,95800.3420168,green,0.687049,2023-12-11T11:00:45+00:00,
+CoinJar Exchange,ALGO/EUR,0.177,203448.266507,green,1.800788,2023-12-11T10:49:55+00:00,https://exchange.coinjar.com/trade
+zondacrypto,ALGO/PLN,0.776,26247.237915,green,1.029601,2023-12-11T10:33:07+00:00,https://zondaglobal.com/en/exchange-rate
+LATOKEN,ALGO/BTC,4.4602e-06,549846.1468274965,green,1.141274,2023-12-11T11:11:37+00:00,https://latoken.com/exchange/BTC-ALGO
+Dex-Trade,ALGO/BNB,0.000809,20194.0,green,0.863132,2023-12-11T11:06:24+00:00,
+Dex-Trade,ALGO/ETH,8.42e-05,70482.2,green,0.588928,2023-12-11T11:06:24+00:00,
+AscendEX (BitMax),ALGO/USD,0.1911,712588.1,green,1.302083,2023-12-11T11:14:04+00:00,https://ascendex.com/en/cashtrade-spottrading/usd/algo
+KuCoin,ALGO/KCS,0.01923,60786.1392,green,0.413864,2023-12-11T11:14:50+00:00,https://www.kucoin.com/trade/ALGO-KCS
+Gate.io,ALGO/TRY,5.574,49685.20331112,green,0.730708,2023-12-11T11:13:34+00:00,https://gate.io/trade/ALGO_TRY
+AscendEX (BitMax),ALGO/BTC,4.5e-06,2572660.9,green,1.106195,2023-12-11T11:13:56+00:00,https://ascendex.com/en/cashtrade-spottrading/btc/algo
+Binance US,ALGO/USDT,0.1897,442901.413811281,green,0.996329,2023-12-11T11:11:59+00:00,https://www.binance.us/trade/pro/ALGO_USDT
+Bitso,ALGO/USD,0.1893,236133.79650888,green,2.166423,2023-12-11T11:14:40+00:00,
+Indodax,ALGO/IDR,2965.0,220034.80624996,green,1.400467,2023-12-11T11:14:38+00:00,https://indodax.com/market/ALGOIDR
+Pionex,ALGO/ETH,8.5e-05,7280.9763,green,2.325581,2023-12-11T11:09:47+00:00,https://www.pionex.com/en/trade/ALGO_ETH/Bot
